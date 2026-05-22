@@ -16,8 +16,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agnel-vincent-24079b32b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ag.nel/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agnelvincent779@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=agnelvincent&label=Profile%20Views&color=2c9fd9&style=for-the-badge)](https://github.com/agnelvincent)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agnelVincent779@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=agnelVincent&label=Profile%20Views&color=2c9fd9&style=for-the-badge)](https://github.com/agnelVincent)
 
 </div>
 
@@ -31,7 +31,7 @@ class AgnelVincent:
         self.name        = "Agnel Vincent"
         self.role        = "Python Full Stack Developer"
         self.location    = "Thrissur, Kerala, India 🌴"
-        self.email       = "agnelvincent779@gmail.com"
+        self.email       = "agnelVincent779@gmail.com"
         self.focus       = ["Scalable APIs", "Real-Time Apps", "Clean Architecture"]
         self.currently   = "Building production-grade Django & React applications"
 
@@ -80,20 +80,20 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=agnelvincent&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2c9fd9&icon_color=2c9fd9&text_color=ffffff" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnelvincent&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c9fd9&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=agnelVincent&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2c9fd9&icon_color=2c9fd9&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnelVincent&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c9fd9&text_color=ffffff" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=agnelvincent&theme=tokyonight&hide_border=true&background=0d1117&ring=2c9fd9&fire=ff6b6b&currStreakLabel=2c9fd9" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=agnelVincent&theme=tokyonight&hide_border=true&background=0d1117&ring=2c9fd9&fire=ff6b6b&currStreakLabel=2c9fd9" width="49%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agnelvincent&bg_color=0d1117&color=2c9fd9&line=2c9fd9&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=agnelVincent&bg_color=0d1117&color=2c9fd9&line=2c9fd9&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
@@ -103,7 +103,7 @@ me.say_hi()
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=agnelvincent&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=agnelVincent&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
 
@@ -129,7 +129,7 @@ me.say_hi()
 💼 Open to exciting **full-stack**, **backend**, or **API-focused** opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agnel-vincent-24079b32b/)
-[![Send Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agnelvincent779@gmail.com)
+[![Send Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agnelVincent779@gmail.com)
 [![Follow on Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ag.nel/)
 
 </div>
